@@ -11,6 +11,8 @@ Phase 1 — Foundation (Month 1 to 6)
 |---------|-------|--------|
 | Python CLI Data Toolkit | Python, pytest | ❌ Not Started |
 | SQL Analytics Project | SQLite, pandas | ❌ Not Started |
+| EDA Report — Housing Data | pandas, seaborn | ❌ Not Started |
+| Classification or regression pipeline | Python, seaborn | ❌ Not Started |
 
 ## Monthly Log
 - [March 2026](./monthly-log/2026-03-march.md)
